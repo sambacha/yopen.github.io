@@ -1,12 +1,12 @@
 ---
-title: "Capital"
+title: "Expenditures"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Expenditures concerned with the **summary, analysis and reporting** of financial transactions related Yearn Finance.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
