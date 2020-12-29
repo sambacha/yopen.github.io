@@ -1,28 +1,3 @@
----
-title: "Data and Reporting"
-date: 2020-12-28T15:14:54+10:00
-featured: true
-draft: false
-weight: 5
----
-
-Draft Report for GSOC
-
-## Data Reports - Draft, Preliminary and Authoritative
-## yFrauds: Economic Impact Report of fraudulent or misleading projects
-
-
-## Overview
-
-Anything that attempts to utilize the branding of Yearn Finance, for example, using the letters `YF-` as a prefix or attempting to associate Yearn Finance's branding with their project is considered a fradulent project. 
-
-This list is non-exhaustive.
-
-* Note: If you have to ask if its a scam, it is.
-
-
-## Fake / Scam Projects
-
 | **Yearn Finance GSOC Economic Impact of Fraud and Scams **                                                                            |
 |---------------------------------------------------------------------------------|
 | Yearn Family Finance                                                            |
