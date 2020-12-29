@@ -1,8 +1,8 @@
 ---
-title: 'Contact'
+title: "Contact"
 date: 2020-12-22T17:01:34+07:00
 layout: contact
-menu: 'main'
+menu: "main"
 ---
 
 Just message @banteg on Telegram, he loves getting messages!
