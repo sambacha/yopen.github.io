@@ -1,8 +1,8 @@
 ---
-title: 'Mike Vance'
+title: 'Discount Banteg'
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: 'images/team/joseph-gonzalez-399972-unsplash.jpg'
+image: "images/team/banteg.png"
 jobtitle: 'Art Director'
 weight: 3
 ---
