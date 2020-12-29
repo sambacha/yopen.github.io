@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# yOpen - Open Standards
+# Yearn Open
 
-In order to become the 'default choice' for future developers, yOpen
+YOpen hosts and retains information that the community would want to access in the interest of transparency. 
