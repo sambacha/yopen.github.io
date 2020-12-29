@@ -1,50 +1,40 @@
 ---
 title: "Ecosystem"
-date: 2018-11-28T15:15:26+10:00
+date: 2020-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Yearn Finacne Ecosystem
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Protocol Layer Integrations
 
-## Geniti facinus praeruptam atris ab manus in
+Risks Identified
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+    A protocol such as Aave Lending Pool Core has a contract failure
+    Problems withdrawing from a lending protocol used to borrow against collateral. This happens when too much of a supplied asset has been borrowed (it has happened on other lending protocols).
+    Admins of DeFi protocols that are not fully decentralised make unexpected changes to the protocols that adversely affect Yearn products.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+Why is each a risk?
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+    YFI is built on top of other DeFi protocols. Problems with these protocols can causes losses to people using YFI products.
+    People deposit in vaults with the expectation that they can withdraw their funds at any time. If they are stuck on a lending protocol then this can lead to reputational risk.
+    Many DeFi protocols are not yet fully decentralised. This is because they are mostly not in a finished state and the team wants the ability to make sudden changes if necessary. These DeFi protocols are often transitioning to full decentralisation.
 
-## Vidit si probetne vertitur
+How is this risk mitigated?
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+    If they are stolen maliciously then they can be blacklisted. If they get sent to a burn address they will be gone forever. A good risk management framework would consider how to deal with these situations before they arise.
+    Only lending protocols with well managed liquidity are used by YFI products. YFI does not accept this risk.
+    Protocols that are considered too risky are not used by YFI. Protocols that are currently too risky but may be used in the future are being monitored (e.g. For.Tube or Cream.Finance). YFI aims to use the least risky protocols in the DeFi space.
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+The following links are useful for understanding the risk frameworks of the protocols with which Yearn Finance interacts.
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Aave
+https://docs.aave.com/risk/
+
+Compound Finance
+https://compound.finance/docs/security#economic-security
+
+MakerDAO
+https://blocking.net/2863/20000-words-to-understand-the-risk-management-framework-of-makerdao/

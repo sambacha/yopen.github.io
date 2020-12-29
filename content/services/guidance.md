@@ -6,58 +6,16 @@ draft: false
 weight: 2
 ---
 
-## A different kind of 'Roadmap'
+## Guidance Disclaimer
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+Forward-Looking Statements.
 
-## Inter pectore totidem
+This document contains forward-looking statements which may, among other matters, discuss the anticipated functioning or behavior of smart contracts and other technologies or markets related thereto and the predicted or expected behavior current and prospective users or current and prospective contributors. Forward-looking statements may contain words such as “expect,” “believe,” “may,” “can,” “should,” “will,” “shall,” “expect,” “anticipate” or similar expressions, and include the assumptions that underlie such statements. These statements are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements, including. All forward-looking statements are based on the authors’ knowledge, plans and assumptions as of the date of publication. Except as required under applicable law, no author hereby undertakes any obligation to update any forward-looking statements.
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+Nature of Information Provided.
 
-## Novis hunc qua erat caecisque
+This document is being provided only as an aid to research, and not as a source of truth. Certain matters described herein, including the code of smart contracts and other descriptions of technologies contained herein, are described only in a summary fashion. Such summaries are not necessarily accurate and complete, and do not include all relevant details. The statements and information contained herein (or provided through links) may not be accurate and complete, or may be subject to important limitations and qualifications; accordingly, no person should rely on such provisions as characterizations of the actual past, current or future state of facts about the relevant matters. No representations and warranties are intended to be provided hereby, and you should not rely on any information set forth herein, but should undertake your own independent research into he matters described.
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+No Legal or Investment Advice
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+No legal or investment advice is being provided hereby, and there is no attorney-client or other advisory or fiduciary relationship between the readers and the authors.
