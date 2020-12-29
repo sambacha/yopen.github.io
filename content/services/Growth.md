@@ -6,48 +6,29 @@ draft: false
 weight: 4
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Approximately 68% of the yVaultrevenue is derived from the yUSDvault, 
+which also generates most of Yearn’stotal revenue.
 
-## Ne verba patulosque numen vix libet
+## Growth and Ecosystem Health
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Overall yVaultrevenue increased in Sep-20 in conjunction with the yield-farming craze that consumed much of decentralized finance (DeFi) on the Ethereum blockchain. Yearn experienced a large decrease in revenue, as this hype subsided in Oct-20. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+• The yWETHvault was introduced in Sep-20 and generated a material amount of revenue for that month. This vault was quickly halted to mitigate excess risk to depositors. 
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+• A new version will be deployed in the upcoming 2.0 release of Yearn’syVaults. •Several additional yVaults(crvRENWSBTC, bCRV, 3Crv) that utilize Curve.fi pools also contributed measurable amounts of revenue. 
 
-## Postquam tamen
+• The majority of revenue from yVaultswas generated from withdrawal fees from depositors. However, yVaultswill implement a new fee structure (2% AUM / 20% performance fee) for upcoming 2.0 yVaults.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Operational Overview
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Over 80% of operating expenses were due to security costs and administrative salaries necessary to support and maintain the protocol.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+• Mixbyteswas engaged to conduct a smart contract audit of yInsureand certain yVaultstrategies. 
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+• Additional audit expenses are expected to be incurred in the future in preparation for the 2.0 yVaultslaunch and other planned product offerings. •Several bug bounties were paid in Oct-20, the majority was $58k paid to Samczsun.
+
+• The administrative team expanded in Oct-20, and Artem received a raise to $14.5k in Oct-20. 
+
+• Kirby and Gismarceased receiving compensation after Sep-20. 
+
+• Administrative salaries are paid in yUSD, which is converted to USD in the table on the left.

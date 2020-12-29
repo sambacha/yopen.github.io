@@ -1,53 +1,28 @@
 ---
-title: "Privacy and Data"
+title: "Data Reports"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Data reports generated from quarterly reports.
 
-## Ne verba patulosque numen vix libet
+## Q3 Summary Report
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Over 95% of total revenue is derived from the yVaultproduct offering, and as a
+result it represents the core component of the ecosystem. •Other miscellaneous
+revenue consists of BAL ($21k) and UNI ($69k) airdrops valued at the fair market
+value (FMV) on the date received. •Cost of revenue consists of gas costs used to
+deploy contracts and call functions for yVaults, such as the harvest function.
+Cost of revenue was elevated in August relative to September and October due to
+an increased amount of smart contract deployments and high gweicosts on the
+Ethereum blockchain. •The majority of operating expenses are comprised of
+administrative salaries and security, approximately 56% and 27%, respectively.
+•Yearn on occasion receives other assets (YFI, WETH) as revenue from operating
+certain yVaults(yYFI, yWETH). These assets are recorded as revenue based on the
+fair market value at the date received. At month end, these assets are adjusted
+to FMV, therefore unrealized gains/(losses) related to these assets are recorded
+on the income statement.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+<img src="https://cdn.mathpix.com/snip/images/txPrZLXU5UszG_2abfqPzh3FSJ52I8p9SQf2m16KzE0.original.fullsize.png" />

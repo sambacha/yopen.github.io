@@ -1,50 +1,55 @@
 ---
 title: "Ecosystem"
-date: 2018-11-28T15:15:26+10:00
+date: 2020-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+## Doer's Reports
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+[see the notes](https://github.com/iearn-finance/yearn-pm/tree/master/notes)
 
-## Geniti facinus praeruptam atris ab manus in
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+## Latest Notes
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+Meeting notes: Doers standup call Dec 16 2020
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+Attendance: Banteg, Doug, Doggie, Facu, Graham, Klim, Lehnberg, Luciano, Santiago, Trach
+1. Updates from the standup
+1.1 Done
 
-## Vidit si probetne vertitur
+    Security: Researcher interactions
+    Documentation: Ongoing work
+    Strategy review: Sushi strategy seems not profitable
+    Governance swaps: Live, further testing
+    New keep3r version: For vaults, requires new jobs
+    GUSD & MUSD vaults: Live
+    YETI, launched
+    Discord, up and running for the entire ecosystem, still in bootstrapping phase
+    DCA, proof of concept finished
+    Frontend, lending section on yearn.finance, cover section
+    Curve distributions done
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+1.2 Doing
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+    yGift2, potential rarible integration for v2
+    Vault registry, design finalized, in testing phase
+    Curve dao vaults, auditing underway
+    3rd vault audit, meeting with auditor next week
+    Strategy audits, 3-5 auditors in contact, some in progress, we have more demand than we have auditors, testing different approaches and quality
+    Governance, proposal to come in jan
+    Strategy process, draft in wip
+    Treasury, in progress
+    Website redesign, first internal version due this week
+    CREAM risk analysis, draft ready, final version in january
+    yAcademy, first auditors in march, we're doing $15k sponsorship for kernel program
+    CVP, one new index of ytokens / ystables
+    More integrations, discussion with several potential partners
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+1.3 To do
+
+    Gitcoin yearn collection, to make it easier to sponsor yearn projects
+    Chinese community outreach, potential discussions with contributor
+    Help needed: Figure out how to read claimable amount in backscratcher vault and add it to the ui, picked up by Facu
+
