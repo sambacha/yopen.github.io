@@ -1,5 +1,7 @@
+*.log
 .DS_Store
 node_modules
 .idea
 public
 resources
+.vscode

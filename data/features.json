@@ -1,16 +1,16 @@
 [
   {
-    "title": "Commonality",
-    "description": "Reports are easily digestible",
+    "title": "GAAP Reports",
+    "description": "GAAP-based Accounting",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Systems Approach",
+    "title": "Guidance and Risk",
     "description": "Automation of as much as possible",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Reduce Friction",
+    "title": "Benchmarking",
     "description": "Reduce duplicated operational tasks between projects",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }

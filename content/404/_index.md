@@ -1,3 +1,3 @@
 ---
-title: "Page Not Found"
+title: "404 - Page not found"
 ---

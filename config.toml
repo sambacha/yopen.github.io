@@ -15,13 +15,13 @@ title = "Yearn Open"
     mobile = "images/logo/logo-mobile.svg"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "YOpen - Reports and Information about the Yearn Ecosystem"
 
   [params.homepage_meta_tags]
-    meta_description = "Yearn Open helps encourage an engineer first approach to system design"
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "Yearn Open helps aggregate information about the Yearn Ecosystem"
+    meta_og_title = "Yearn Finance Ecosystem"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.app"
+    meta_og_url = "https://yearn.finance"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     meta_og_description = "Yearn Open helps encourage an engineer first approach to system design"
     meta_twitter_card = "summary"
@@ -37,12 +37,12 @@ title = "Yearn Open"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Reports"
     url = "/services/"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
+      name = "Ecosystem"
       url = "/team/"
       weight = 2
 
