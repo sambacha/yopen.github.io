@@ -15,7 +15,6 @@ These are events that projects have scheduled and are recurring
 ## Banteg Office Hours
 
 
-
 | Day       | Time  |
 | --------- | --------------- |
 | Tuesday   | 8:30am - 5:00pm |
