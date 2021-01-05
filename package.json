@@ -1,9 +1,11 @@
 {
   "name": "yopen.github.io",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss-cli": "^8.3.1"
+  },
   "devDependencies": {
     "netlify": "^6.0.9",
     "prettier": "^2.2.1"
@@ -21,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/sambacha/yopen.github.io/issues"
   },
-  "homepage": "https://github.com/sambacha/yopen.github.io#readme"
+  "homepage": "https://github.com/sambacha/yopen.github.io#readme",
+  "description": ""
 }
