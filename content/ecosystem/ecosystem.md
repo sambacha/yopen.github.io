@@ -10,26 +10,26 @@ weight: 3
 
 [see the notes](https://github.com/iearn-finance/yearn-pm/tree/master/notes)
 
-
 ## Latest Notes
 
 Meeting notes: Doers standup call Dec 16 2020
 
 Attendance: Banteg, Doug, Doggie, Facu, Graham, Klim, Lehnberg, Luciano, Santiago, Trach
-1. Updates from the standup
-1.1 Done
 
-    Security: Researcher interactions
-    Documentation: Ongoing work
-    Strategy review: Sushi strategy seems not profitable
-    Governance swaps: Live, further testing
-    New keep3r version: For vaults, requires new jobs
-    GUSD & MUSD vaults: Live
-    YETI, launched
-    Discord, up and running for the entire ecosystem, still in bootstrapping phase
-    DCA, proof of concept finished
-    Frontend, lending section on yearn.finance, cover section
-    Curve distributions done
+1.  Updates from the standup
+    1.1 Done
+
+        Security: Researcher interactions
+        Documentation: Ongoing work
+        Strategy review: Sushi strategy seems not profitable
+        Governance swaps: Live, further testing
+        New keep3r version: For vaults, requires new jobs
+        GUSD & MUSD vaults: Live
+        YETI, launched
+        Discord, up and running for the entire ecosystem, still in bootstrapping phase
+        DCA, proof of concept finished
+        Frontend, lending section on yearn.finance, cover section
+        Curve distributions done
 
 1.2 Doing
 
@@ -52,4 +52,3 @@ Attendance: Banteg, Doug, Doggie, Facu, Graham, Klim, Lehnberg, Luciano, Santiag
     Gitcoin yearn collection, to make it easier to sponsor yearn projects
     Chinese community outreach, potential discussions with contributor
     Help needed: Figure out how to read claimable amount in backscratcher vault and add it to the ui, picked up by Facu
-

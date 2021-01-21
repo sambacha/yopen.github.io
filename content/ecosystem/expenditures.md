@@ -1,82 +1,179 @@
 ---
 title: "Expenditures"
-date: 2020-12-28T12:33:46+10:00
+date: Wed Jan 20 16:00:26 PST 2021
 draft: false
 featured: true
 weight: 1
 ---
 
-Expenditures concerned with the **summary, analysis and reporting** of financial transactions related Yearn Finance.
+# Token Allocations at Peer Projects - 2021 Q1
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Please find the forum post linking to this document
+[here](https://gov.yearn.finance/t/token-allocations-at-peer-projects/9268/5).
 
-# Objectives 
+## Team token allocations
 
-Financial accounting and financial reporting are often used as synonyms.
+Projects such as Uniswap, Aave, Synthetix, Compound, 1inch, Curve, and Balancer
+hold anywhere from $300 million-$2.13 billion in tokens aside for team members,
+with the average being between $500-600 million. This is generally 20-30% of the
+total token allocation. Newer projects such as SushiSwap, Badger, CREAM,
+Harvest, and Cover vary more between teams, but allocate between 10-25% of token
+supply to their teams and early contributors.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+It’s worth adding here that CREAM just rewarded 2 two Yearn strategists
+(@macarse and @SamPriestley) 700 CREAM each (~$133,000) for the significant work
+they’ve done on Iron Bank. This is very similar to the 10,000 BADGER (~$150,000)
+that was allocated for developer mining during the first month for Badger, most
+(or all?) of which is going to Yearn strategist @andy8052.
 
-## Relevance
+And just in case anyone is unclear about this—I’m not tagging them to say
+“they’ve already been paid”, I’m doing it to point out that other protocols are
+very happy to compensate them for their expertise, and as such may endanger our
+ability to retain such talent.
+Treasury/operations token allocations
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+While the numbers vary here more widely, most of the major projects still have
+significant token amounts set aside for operations. Uniswap is on the high end
+with $4 billion, Aave, Synthetix, Balancer, and 1inch all have between $200-$570
+million, and likely other projects without any tokens set aside for operations
+have ample funding from investors (Curve and Compound).
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+Newer projects set aside around 10% of token allocation to operations and
+protocol improvements (or more, in the case of Badger). Badger also has specific
+incentives targeting strategists, which may be problematic to Yearn since (at
+least to start) they have essentially forked our vaults with an emission token
+on top.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### Team token allocations
 
-## Faithful Representation
+Projects such as Uniswap, Aave, Synthetix, Compound, 1inch, Curve, and Balancer
+hold anywhere from $300 million-$2.13 billion in tokens aside for contributors,
+with the average being between $500-600 million. This is generally 20-30% of the
+total token allocation. Newer projects such as SushiSwap, Badger, CREAM,
+Harvest, and Cover vary more between protocols, but allocate between 10-25% of
+token supply to their teams and early contributors.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+It's worth adding here that CREAM just
+[rewarded](https://forum.cream.finance/t/add-cream-developer-grant-program-to-reward-key-contributors/584)
+two Yearn strategists (@macarse and @SamPriestley) 700 CREAM each (~$133,000)
+for the significant work they've done on Iron Bank. This is very similar to the
+10,000 BADGER (~$150,000) that was allocated for developer mining during the
+first month for Badger, most (or all?) of which is going to Yearn strategist
+@andy8052.
 
-## Enhancing Qualitative Characteristics
+And just in case anyone is unclear about this—I'm not tagging them to say
+"they've already been paid", I'm doing it to point out that other protocols are
+_very_ happy to compensate them for their expertise, and as such may endanger
+our ability to retain such talent.
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+### Treasury/operations token allocations
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+While the numbers vary here more widely, most of the major projects still have
+significant token amounts set aside for operations. Uniswap is on the high end
+with $4 billion, Aave, Synthetix, Balancer, and 1inch all have between $200-$570
+million, and likely other projects without any tokens set aside for operations
+have ample funding from investors (Curve and Compound).
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Newer projects set aside around 10% of token allocation to operations and
+protocol improvements (or more, in the case of Badger). Badger also has specific
+incentives targeting strategists, which may be problematic to Yearn since (at
+least to start) they have essentially forked our vaults with an emission token
+on top.
 
----
+## Team token allocations
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+### DeFi "blue chips" (Around a while or very major players)
 
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+**Uniswap** - $2.13 billion
+**Aave** - $570 million
+**Synthetix** - $300 million (with lots of inflation since original allocation)
+**Compound** - $515 million
 
+### DeFi "light blue chips" (Newer or smaller players)
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+**1inch** - $675 million
+**Curve** - At least $136 million for "team", but $1.36 billion more for "team
+and investors"
+**Balancer** - $515 million
 
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
+### DeFi "new kids" (much newer, products of DeFi summer)
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+**SushiSwap** - SUSHI included in salary with USDC, 15% signing bonus in SUSHI.
+$300k total salary for Senior Ops/Devs, $200k for junior ops/devs, $250k for
+senior designer/comms, $150k for junior designer/comms, $120k for community
+manager
+**Harvest** - $15 million to team (20%)
+**Cover** - $1.1 million for core devs, $750k for tech advisor, $300k for
+community manager/ops, $150k for industry advisor. 12% of tokens reserved for
+team originally.
+**CREAM** - $125 million to team (23%)
+**BADGER** - $15 million BADGER (5%) and $14 million DIGG (10%) to early
+contributors, $32 million BADGER (10%) and $7 million DIGG (5%) to founding team
+**YAM** - Like SushiSwap, salary based. Core team salaries vary from $6k to
+$11.6k per month, and include 1500-2500 YAM on top that is vested for 1 Year.
+YAM holds 1.7 million YAM (~$4.4m) in reserves for contributors.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+**Summary:** Here, we can see that larger players have ~$500 million reserved
+for team growth and incentives, with Uniswap being the clear exception. It's
+tough to gauge exactly how much some newer protocols are granting to their
+contributors, but it seems to be between 10-25% of token supply. ~~0xMaki was
+proposed to receive a large amount of SUSHI initially as well (1 million SUSHI,
+not sure if this went through or was amended)~~ (Maki clarified on the forum
+post that this was 200k SUSHI at a time when it was $1.25). Although Badger's
+compensation is on the lower end, they also have significant reserves under
+operations to reward developers.
 
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
+## Protocol/operations token allocations
 
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
+While this is a bit tougher to nail down what exactly some of these funds may be
+used for, thought I'd add it as well.
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+### DeFi "blue chips" (Around a while or very major players)
+
+**Uniswap** - $4 billion for "community governance treasury"
+**Aave** - $570 million printed upon LEND -> AAVE migration for "ecosystem
+reserve"
+**Synthetix** - $300 million to "Foundation, Partnership incentives, and
+bounties & marketing"
+**Compound** - N/A, no token allocation (but likely funding from investors)
+
+### DeFi "light blue chips" (Newer or smaller players)
+
+**1inch** - $435 million, also 1inch is bringing in ~$30 million in gov fees
+each year after payouts to stakers
+**Curve** - N/A, no token allocation (but likely funding from investors)
+**Balancer** - $210 million total for "ecosystem fund" and "partner fund". Also
+$3.4m per week in BAL emissions
+
+### DeFi "new kids" (much newer, products of DeFi summer)
+
+**SushiSwap** - 10% to dev/operations fund, ~$175 million
+**Harvest** - $7.5 million to operations (10%)
+
+**Cover** - 950 COVER tokens + 0.1% of protocol fees for the
+[treasury](https://etherscan.io/address/0x859eefc267671595d987d0f6589d7771d4877113)
+& a separate team donation
+[fund](https://etherscan.io/address/0xc698645b5c5b662b52a5a5c092804f23e3f5b4c5)
+for future growth
+
+**CREAM** - $335 million set aside for early liquidity mining but also
+"treasury" moving forward. CREAM also just
+[rewarded](https://forum.cream.finance/t/add-cream-developer-grant-program-to-reward-key-contributors/584)
+two Yearn strategists (@macarse and @SamPriestley) 700 CREAM each (~$133,000)
+for the significant work they've done on Iron Bank.
+
+**BADGER** - $126 million in BADGER (35%) total, $56 million in DIGG (40%), with
+a special "developer mining" allocation that is $47 million in BADGER (15% of
+supply), currently paying this on top of normal 50% of fees to strategists (and
+Yearn strategist Andy is working with them). First month paid 10,000 BADGER
+($150,000) to strategists as part of developer mining.
+
+**YAM** - Treasury holds $2.4 million primarily in yUSD and DPI
+
+**Summary:** While the numbers vary here much more widely, most of the major
+projects still have significant token amounts set aside for operations (several
+hundred million $, or for smaller projects at least 10% of token supply), and
+likely others without any have ample funding from investors (Curve and
+Compound). BADGER also has specific incentives targeting strategists, which may
+be problematic to Yearn since (at least to start) they have essentially forked
+vaults with an emission token on top.

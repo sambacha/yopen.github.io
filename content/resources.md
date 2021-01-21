@@ -7,6 +7,8 @@ menu: 'main'
 
 ## Yearn Finance
 
+- 2021 Ecosystem Token Allocations Reports
+
 
 ### Yearn Contracts 
 
