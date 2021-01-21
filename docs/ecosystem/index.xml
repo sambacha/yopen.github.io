@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Yearn Open</title>
+    <link>www.yopen.org/ecosystem/</link>
+    <description>Recent content in Services on Yearn Open</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Dec 2020 15:14:39 +1000</lastBuildDate><atom:link href="www.yopen.org/ecosystem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expenditures</title>
+      <link>www.yopen.org/ecosystem/expenditures/</link>
+      <pubDate>Mon, 28 Dec 2020 12:33:46 +1000</pubDate>
+      
+      <guid>www.yopen.org/ecosystem/expenditures/</guid>
+      <description>Expenditures concerned with the summary, analysis and reporting of financial transactions related Yearn Finance.
+Objectives Financial accounting and financial reporting are often used as synonyms.
+ According to International Financial Reporting Standards: the objective of financial reporting is: To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity. According to the European Accounting Association:  Relevance Relevance is the capacity of the financial information to influence the decision of its users.</description>
+    </item>
+    
+    <item>
+      <title>Guidance and Roadmap</title>
+      <link>www.yopen.org/ecosystem/guidance/</link>
+      <pubDate>Mon, 28 Dec 2020 15:14:39 +1000</pubDate>
+      
+      <guid>www.yopen.org/ecosystem/guidance/</guid>
+      <description>A different kind of &amp;lsquo;Roadmap&amp;rsquo; Guidance Statement
+Balance Sheet Yearn owns several marketable assets valued at approximately $581k at Oct-20 month end, and has no liabilities. •Yearn holds YFI and ETH related to revenue earned from these respective yVaults.
+These assets are adjusted to fair market value month-end based on their closing prices. •UNI was donated by a Yearn contributor to cover operational expenses. As such, it is not eligible to be distributed to YFI stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Ecosystem</title>
+      <link>www.yopen.org/ecosystem/ecosystem/</link>
+      <pubDate>Sat, 28 Nov 2020 15:15:26 +1000</pubDate>
+      
+      <guid>www.yopen.org/ecosystem/ecosystem/</guid>
+      <description>Doer&amp;rsquo;s Reports see the notes
+Latest Notes Meeting notes: Doers standup call Dec 16 2020
+Attendance: Banteg, Doug, Doggie, Facu, Graham, Klim, Lehnberg, Luciano, Santiago, Trach
+  Updates from the standup 1.1 Done
+Security: Researcher interactions Documentation: Ongoing work Strategy review: Sushi strategy seems not profitable Governance swaps: Live, further testing New keep3r version: For vaults, requires new jobs GUSD &amp;amp; MUSD vaults: Live YETI, launched Discord, up and running for the entire ecosystem, still in bootstrapping phase DCA, proof of concept finished Frontend, lending section on yearn.</description>
+    </item>
+    
+    <item>
+      <title>Growth and Mergers</title>
+      <link>www.yopen.org/ecosystem/growth/</link>
+      <pubDate>Sat, 28 Nov 2020 15:15:34 +1000</pubDate>
+      
+      <guid>www.yopen.org/ecosystem/growth/</guid>
+      <description>Approximately 68% of the yVaultrevenue is derived from the yUSDvault, which also generates most of Yearn’stotal revenue.
+Growth and Ecosystem Health Overall yVaultrevenue increased in Sep-20 in conjunction with the yield-farming craze that consumed much of decentralized finance (DeFi) on the Ethereum blockchain. Yearn experienced a large decrease in revenue, as this hype subsided in Oct-20.
+• The yWETHvault was introduced in Sep-20 and generated a material amount of revenue for that month.</description>
+    </item>
+    
+    <item>
+      <title>Data Reports</title>
+      <link>www.yopen.org/ecosystem/data/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>www.yopen.org/ecosystem/data/</guid>
+      <description>Data reports generated from quarterly reports.
+Q3 Summary Report Over 95% of total revenue is derived from the yVaultproduct offering, and as a result it represents the core component of the ecosystem. •Other miscellaneous revenue consists of BAL ($21k) and UNI ($69k) airdrops valued at the fair market value (FMV) on the date received. •Cost of revenue consists of gas costs used to deploy contracts and call functions for yVaults, such as the harvest function.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>www.yopen.org/ecosystem/resources/</link>
+      <pubDate>Mon, 28 Dec 2020 12:33:46 +1000</pubDate>
+      
+      <guid>www.yopen.org/ecosystem/resources/</guid>
+      <description>Integrations Yearn Integrations Guide: https://docs.yearn.finance/developers/integration-guide
+Protocol Strategy starter pack: https://github.com/iearn-finance/brownie-strategy-mix Getting Started: https://hackmd.io/rGLeLRdNTlmDklI4Bu_Seg Protocol Overview: https://hackmd.io/hLzFldUyR0WLdrzN8EMKJg Andre Cronje&amp;rsquo;s Medium: https://andrecronje.medium.com/ ETHOnline Vault Workshop: https://www.youtube.com/watch?v=4gwZk-IaMRs ETHOnline Slides: https://docs.google.com/presentation/d/1XpekjGvfmnvL3s5bG8JCR8rJUvtbMVCQQh6nC5D4264/
+Github Protocol: https://github.com/iearn-finance/yearn-protocol Vaults: https://github.com/iearn-finance/yearn-vaults Subgraph: https://github.com/iearn-finance/yearn-subgraph Yearn API: https://github.com/iearn-finance/yearn-api Strategy Mix: https://github.com/iearn-finance/brownie-strategy-mix
+Web resources Yearn graph explorer: https://thegraph.com/explorer/subgraph/iearn-finance/yearn-finance Feel-the-yearn: https://feel-the-yearn.app/vaults Deployed contracts: https://docs.yearn.finance/developers/deployed-contracts-registry Yearn API: https://yearn.tools/</description>
+    </item>
+    
+  </channel>
+</rss>
